@@ -24,4 +24,4 @@ var compare = function(userChoice, computerChoice) {
     }
 }
 
-console.log(userChoice, computerChoice);
+compare(userChoice,computerChoice);
